@@ -1,0 +1,23 @@
+{
+  "name": "thuchanhnode",
+  "version": "1.0.0",
+  "description": "backen Nodejs",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DuyHuynh1"
+  },
+  "author": "2101443_huynhhaiduy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0"
+  }
+}
